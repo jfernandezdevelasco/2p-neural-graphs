@@ -135,7 +135,7 @@ plotDegree(st,multi);
 ```
 ---
 
-# Citation
+# How to cite this work
 
 If you use this pipeline in your research, please reference the upcoming conference proceedings paper detailing it:
 
