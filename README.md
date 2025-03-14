@@ -137,7 +137,7 @@ plotDegree(st,multi);
 
 # Citation
 
-If you use this pipline in your research, please reference the upcoming conference proceedings paper detailing this pipeline:
+If you use this pipeline in your research, please reference the upcoming conference proceedings paper detailing it:
 
 J.Fernandez de Velasco Biasiolo, M.Pedersen, B.Kuhn, and C.Cecchetto, "An analysis pipeline for two-photon calcium imaging data to reveal the functional connectivity of the mouse somatosensory cortex". ICBET 2025 IEEE Conference Proceedings.
 ___
@@ -182,7 +182,7 @@ Additional information about the toolbox and download instructions can be found 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
 # Acknowledgment 
-This study was funded by the EU H2020-MSCA-IF-2017 project ‘GRACE’ (id number: 796177) to C. C. and the PNRR-MSCA ‘Young Researchers Award’ project 'NEUPAGES' to C.C.
+This study was funded by the EU H2020-MSCA-IF-2017 project ‘GRACE’ (id number: 796177) to Dr. Cecchetto and the PNRR-MSCA ‘Young Researchers Award’ project 'NEUPAGES' to Dr. Cecchetto.
 
 # Contact
 For questions, please contact Juan Fernandez de Velasco Biasiolo at juan.fernandezdevelasco@unipd.it
