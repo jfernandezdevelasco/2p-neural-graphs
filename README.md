@@ -1,6 +1,6 @@
 # 2p-neural-graphs
 
-This repository contains the MATLAB code implementation for the conference proceedings paper: **An analysis pipeline for two-photon calcium imaging data to reveal the functional connectivity of the mouse somatosensory cortex**. The provided code processes two-photon calcium imaging data extracted using **CaImAn** [1] and applies network science techniques to analyze neuronal connectivity patterns. 
+This repository contains the MATLAB code implementation for the conference proceedings paper: [**An analysis pipeline for two-photon calcium imaging data to reveal the functional connectivity of the mouse somatosensory cortex**](https://ieeexplore.ieee.org/document/11469910). The provided code processes two-photon calcium imaging data extracted using **CaImAn** [1] and applies network science techniques to analyze neuronal connectivity patterns. 
 
 The pipeline is designed to reveal functional connectivity as described and developed in [2],[3], and to examine how it changes across different cortical depths and experimental conditions (e.g., awake vs. anesthetized states). A dataset of two-photon calcium imaging acquisitions from the mouse somatosensory cortex, performed across three different cortical layers in both anesthetized and awake mice, was used to develop the pipeline [4]. Network topology was investigated using the **Brain Connectivity Toolbox** [5], a MATLAB package, employing connectivity and network measures. The figure below illustrates a functional neural graph generated using the methods outlined in the pipeline.
 
