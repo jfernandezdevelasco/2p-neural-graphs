@@ -137,7 +137,7 @@ plotDegree(st,multi);
 
 # How to cite this work
 
-If you use this pipeline in your research, please reference the upcoming conference proceedings paper detailing it:
+If you use this pipeline in your research, please reference the conference proceedings paper detailing it:
 
 J. F. de Velasco Biasiolo, M. G. Pedersen, B. Kuhn and C. Cecchetto, "An Analysis Pipeline for Two-Photon Calcium Imaging Data to Reveal the Functional Connectivity of the Mouse Somatosensory Cortex," 2025 15th International Conference on Biomedical Engineering and Technology (ICBET), Jeju Island, Korea, Republic of, 2025, pp. 36-39, doi: 10.1109/ICBET66094.2025.11469910.
 ___
